@@ -61,7 +61,7 @@
         <div class="container">
             <h2>About Me</h2>
             <p>
-                I'm a web developer with expertise in HTML, CSS, and JavaScript. I have a background in computer science and a passion for creating visually appealing and user-friendly websites.
+                I'm a learner.
             </p>
             <ul>
                 <li><strong>Skills:</strong> Web Development, UI/UX Design, Problem Solving</li>
@@ -95,3 +95,7 @@
     </footer>
 </body>
 </html>
+
+
+
+
